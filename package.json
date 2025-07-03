@@ -1,0 +1,22 @@
+{
+  "name": "omui-button",
+  "version": "1.0.0",
+  "description": "Reusable Button component for React/Next.js apps",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "nextjs",
+    "button",
+    "component",
+    "ui"
+  ],
+  "author": "developers(ajith, moni)",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
